@@ -45,7 +45,7 @@ Streaky bacon | **Bacon** | The overwhelmingly dominant kind in the US.
 Sweets | Candy |
 Treacle | Molasses |
 Tomato sauce | Ketchup | Ketchup is used in the UK too.
-Watercress | Alfalfa sprouts |
+Watercress | n/a | Watercress (Nasturtium officinale) is not the same thing as alfala (Medicago sativa) sprouts/. Watercress is rarely seen in the US. Alfalfa sprouts are often added to sandwiches and salads.
 White sauce | **Gravy** | Gravy in the US is a more general term for anything gloopy you pour on food.
 
 Notes:
